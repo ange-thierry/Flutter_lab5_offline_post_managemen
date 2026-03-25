@@ -10,7 +10,7 @@ A Flutter app to manage media posts offline using SQLite.
 
 | ViewAll1 | ViewAll2 |
 |----------|----------|
-| ![ViewAll1](https://raw.githubusercontent.com/ange-thierry/Flutter_lab5_offline_post_managemen/main/assets/ViewAll1.png) | ![ViewAll2](https://raw.githubusercontent.com/ange-thierry/Flutter_lab5_offline_post_managemen/main/assets/ViewAll2.png) |
+| ![viewall1](https://raw.githubusercontent.com/ange-thierry/Flutter_lab5_offline_post_managemen/main/assets/ViewAll1.png) | ![viewall2](https://raw.githubusercontent.com/ange-thierry/Flutter_lab5_offline_post_managemen/main/assets/ViewAll2.png) |
 
 ---
 
@@ -38,5 +38,5 @@ A Flutter app to manage media posts offline using SQLite.
 
 ---
 
-## 📂 Project Structure
+
 
